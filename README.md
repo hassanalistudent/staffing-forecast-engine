@@ -44,9 +44,5 @@ This project models future workload for experts (QA, Mobile, Web, DevOps, UI/UX,
 - Real-time data integration
 - Cost modeling and optimization
 
----
 
-**Author**: Hassan Ali Khalid  
-**Email**: hassanalikhalid@gmail.com  
-**Tagline**: Data Analyst | Turning Data into Decisions
 
